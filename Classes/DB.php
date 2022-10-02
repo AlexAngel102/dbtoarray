@@ -37,43 +37,4 @@ class DB extends PDO
         return $result;
     }
 
-//    /**
-//     * @return string
-//     */
-//    public function getHost(): string
-//    {
-//        return $this->host;
-//    }
-//
-//    /**
-//     * @return string
-//     */
-//    public function getName(): string
-//    {
-//        return $this->name;
-//    }
-//
-//    /**
-//     * @return string
-//     */
-//    public function getUsername(): string
-//    {
-//        return $this->username;
-//    }
-//
-//    /**
-//     * @return string
-//     */
-//    public function getPassword(): string
-//    {
-//        return $this->password;
-//    }
-//
-//    /**
-//     * @return array
-//     */
-//    public function getOptions(): array
-//    {
-//        return $this->options;
-//    }
 }
